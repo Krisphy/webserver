@@ -10,3 +10,4 @@ Functionality to add:
 - Epoll with a thread pool to avoid having to assign a new thread to each file descriptor
 - Support for more HTTP header requests
 - Secure encryption through OpenSSL library
+- Change from signal to sigaction
